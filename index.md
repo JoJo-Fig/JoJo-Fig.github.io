@@ -8,7 +8,7 @@ title: JoJo-Fig's Portfolio
 Hi, I'm Joseph — a computer engineering grad & part-time meat clerk, building tools and trading bots with Python.
 
 ## Projects
-- [Alpaca Trading Bot](https://github.com/JoJo-Fig/trade-bot)
+- [Alpaca Trading Bot](https://github.com/JoJo-Fig/alpaca-trading-bot)
 - More coming soon...
 
 ## Contact
