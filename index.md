@@ -9,6 +9,7 @@ Hi, I'm Joseph — a computer engineering grad & part-time meat clerk, building 
 
 ## Projects
 - [Alpaca Trading Bot](https://github.com/JoJo-Fig/alpaca-trading-bot)
+- [Market Report](https://github.com/JoJo-Fig/market_report)
 - More coming soon...
 
 ## Contact
